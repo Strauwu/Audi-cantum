@@ -1,0 +1,13 @@
+C:\Users\Варвара\source\repos\new ga,e\bin\Debug\new ga,e.exe.config
+C:\Users\Варвара\source\repos\new ga,e\bin\Debug\new ga,e.exe
+C:\Users\Варвара\source\repos\new ga,e\bin\Debug\new ga,e.pdb
+C:\Users\Варвара\source\repos\new ga,e\bin\Debug\CSCore.dll
+C:\Users\Варвара\source\repos\new ga,e\bin\Debug\CSCore.xml
+C:\Users\Варвара\source\repos\new ga,e\obj\Debug\audi-cantum.csproj.AssemblyReference.cache
+C:\Users\Варвара\source\repos\new ga,e\obj\Debug\new_ga_e.Form1.resources
+C:\Users\Варвара\source\repos\new ga,e\obj\Debug\new_ga_e.Properties.Resources.resources
+C:\Users\Варвара\source\repos\new ga,e\obj\Debug\audi-cantum.csproj.GenerateResource.cache
+C:\Users\Варвара\source\repos\new ga,e\obj\Debug\audi-cantum.csproj.CoreCompileInputs.cache
+C:\Users\Варвара\source\repos\new ga,e\obj\Debug\audi-can.BE0169B9.Up2Date
+C:\Users\Варвара\source\repos\new ga,e\obj\Debug\new ga,e.exe
+C:\Users\Варвара\source\repos\new ga,e\obj\Debug\new ga,e.pdb
